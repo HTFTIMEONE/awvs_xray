@@ -1,1 +1,2 @@
 # awvs_xray
+使用的时候自行配置里面的cookie和txt文本为止即可
